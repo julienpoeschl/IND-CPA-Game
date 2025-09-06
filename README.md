@@ -2,6 +2,8 @@
 
 The [Indistinguishable Chosen-Plaintext Attack](https://en.wikipedia.org/wiki/Ciphertext_indistinguishability) (IND-CPA).
 
+![Diagram](media/diagram.png)
+
 # How to play
 
 ## After cloning the repository and open it in an IDE on your system:
