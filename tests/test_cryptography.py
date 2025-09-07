@@ -1,6 +1,6 @@
 import unittest
 
-import app.cryptography as cryptography
+import game.cryptography as cryptography
 
 class TestParser(unittest.TestCase):
     def setUp(self):
