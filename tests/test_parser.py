@@ -1,6 +1,6 @@
 import unittest
 
-import game.parser as parser
+import app.parser as parser
 
 class TestParser(unittest.TestCase):
     def setUp(self):
